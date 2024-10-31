@@ -289,8 +289,8 @@
         background-position:top;
     }
 
-    .bg1 { background-image: url(/zook.png); }
-    .bg2 { background-image: url(/xymbolic.png); }
+    .bg1 { background-image: url(zook.png); }
+    .bg2 { background-image: url(xymbolic.png); }
     .bg3 { background-image: url(home.png); }
     .bg4 { background-image: url(y.png); }
 
